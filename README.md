@@ -2,7 +2,7 @@
 
 Portfólio pessoal de **Tiago Carvalho**, estudante de Ciência da Computação no UniBH e desenvolvedor back-end (Python e Java).
 
-**Acesse:** [dv-tiagocarvalho.github.io](https://dv-tiagocarvalho.github.io)
+**Acesse:** [dv-tiagocarvalho.github.io/Dv-TiagoCarvalho.Portfolio](https://dv-tiagocarvalho.github.io/Dv-TiagoCarvalho.Portfolio/)
 
 ![Página inicial do portfólio](assets/screenshots/hero.png)
 
